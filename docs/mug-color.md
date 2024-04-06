@@ -22,7 +22,7 @@ Byte | Data
 0 | Red
 1 | Blue
 2 | Green
-3 | Alpha
+3 | LED Intensity (7-255)
 
 * **Example Data**
 
